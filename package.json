@@ -1,0 +1,24 @@
+{
+  "name": "activated",
+  "version": "0.0.0",
+  "description": "leads system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/activated-lid.git"
+  },
+  "keywords": [
+    "leads",
+    "node.js",
+    "hapi"
+  ],
+  "author": "Doron Segal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/activated-lid/issues"
+  },
+  "homepage": "https://github.com/doron2402/activated-lid"
+}
